@@ -1,2 +1,3 @@
 # python
-python
+
+pushup  sit-up  grip
